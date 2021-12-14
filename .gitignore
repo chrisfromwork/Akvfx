@@ -8,6 +8,7 @@ Desktop.ini
 # Code Editors
 /.idea
 /.vscode
+/.vs
 /*.csproj
 /*.sln
 *.swp
@@ -17,3 +18,16 @@ Desktop.ini
 /Library
 /Logs
 /Temp
+
+App/
+obj/
+*.glb
+*.glb.meta
+*.obj
+*.obj.meta
+*.fbx
+*.fbx.meta
+*.mp4
+*.mp4.meta
+*.png
+*.png.meta

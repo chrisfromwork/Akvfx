@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Test.unity
     guid: d3142d63af12625f2a1628360576aae0
+  - enabled: 1
+    path: Assets/nwff/nwff.unity
+    guid: 92a2bdd941647da46a8cb09909e35793
   m_configObjects: {}
